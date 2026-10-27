@@ -1,6 +1,6 @@
-# Redhawk: Autonomous Maze Navigation
+# Autonomous Maze Navigation
 
-A Python robotics project for **Caltech ME 129**, built with a two-wheel, Raspberry Pi-controlled robot that follows lines, maps intersections, and navigates an initially unknown network of paths. The repository tracks nine stages of development, from motor control to autonomous exploration, shortest-path navigation, and NFC-assisted prize localization.
+The project for **Caltech ME 129**, built with a two-wheel, Raspberry Pi-controlled robot that follows lines, maps intersections, and navigates an initially unknown network of paths. The repository tracks nine stages of development, categorized into goals, from motor control to autonomous exploration, shortest-path navigation, and NFC-assisted prize localization.
 
 ## Project outline
 
